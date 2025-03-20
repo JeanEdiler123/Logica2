@@ -1,5 +1,5 @@
 # Logica2
-## Este repositório contém uma série de programas desenvolvidos em Ada, com foco na prática de conceitos básicos de programação, como manipulação de entradas, estruturas condicionais e operações matemáticas. Os programas abordam uma variedade de problemas, como cálculos, verificações lógicas e classificações de dados, proporcionando uma aplicação prática de fundamentos da linguagem Ada. O objetivo é oferecer exemplos didáticos e funções úteis para a compreensão de como trabalhar com a linguagem em diferentes contextos.
+## Este repositório contém uma série de programas desenvolvidos em Flowgorithm, com foco na prática de conceitos básicos de programação, como manipulação de entradas, estruturas condicionais e operações matemáticas. Os programas abordam uma variedade de problemas, como cálculos, verificações lógicas e classificações de dados, proporcionando uma aplicação prática de fundamentos da linguagem Ada. O objetivo é oferecer exemplos didáticos e funções úteis para a compreensão de como trabalhar com a linguagem em diferentes contextos.
 ###	1- Verificação de Par ou Ímpar:
 1- Solicita um número ao usuário e o converte para um valor numérico.
 2- Verifica se o número é par ou ímpar.
